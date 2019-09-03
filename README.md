@@ -1,6 +1,6 @@
 # am335x_device_drivers
 ARM device drivers from scratch for beginners in device drivers
-->The drivers are compatible with kernel version 4.9.98-dirty
+->The drivers are compatible with kernel version 4.9.98-dirty. All drivers are tested on am335x custom hardware.
 
 Procedure to follow (General procedure, not limited to am335x only):-
 1) Download the kernel source for which you want to build drivers
