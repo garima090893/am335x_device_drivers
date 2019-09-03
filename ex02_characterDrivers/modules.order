@@ -1,0 +1,3 @@
+kernel//home/ubuntu/personalSpace/dd/armDriverTutorial/ex02_characterDrivers/simple_char_driver.ko
+kernel//home/ubuntu/personalSpace/dd/armDriverTutorial/ex02_characterDrivers/class_char_driver.ko
+kernel//home/ubuntu/personalSpace/dd/armDriverTutorial/ex02_characterDrivers/myMisc_char_driver.ko
